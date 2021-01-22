@@ -28,9 +28,21 @@ td{
 }
 hr{
     border: 1px solid #1D1D4E ;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 75px;
+    
 }
 .első{
     margin-left: 10px;
+}
+.forras{
+    
+}
+a:active{
+    color: red;
+}
+a{
+    color: purple;
+}
+a:checked{
+   color: purple; 
 }
