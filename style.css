@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+    color: white;
+}
+.balkep{
+    float: left;
+    width: 250px;
+    box-shadow: 5px 5px 5px #1D1D4E;
+}
+.jobbkep{
+    float: right;
+    width: 400px;
+    box-shadow: 5px 5px 5px #1D1D4E;
+}
+table{
+    box-shadow: 5px 5px 5px  #1D1D4E;;
+}
+
+td{
+    border-bottom: 1px dotted #1D1D4E ;
+    border-top: 1px dotted  #1D1D4E ;
+    border-right: 1px dotted  #1D1D4E ;
+    border-left: 1px dotted  #1D1D4E;
+}
+.fejsor{
+    text-align: center;
+    background-color: #1D1D4E;
+}
+hr{
+    border: 1px solid #1D1D4E ;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.első{
+    margin-left: 10px;
+}
