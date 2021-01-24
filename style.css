@@ -25,6 +25,8 @@ td{
 .fejsor{
     text-align: center;
     background-color: #1D1D4E;
+    
+    
 }
 hr{
     border: 1px solid #1D1D4E ;
@@ -35,13 +37,15 @@ hr{
     margin-left: 10px;
 }
 .forras{
-    
+    text-align: center;
+    font-style: italic;
 }
 a:active{
     color: red;
 }
 a{
     color: purple;
+
 }
 a:checked{
    color: purple; 
