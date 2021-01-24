@@ -1,11 +1,18 @@
 body{
     background-color: gray;
     color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{
+    text-align: center;
 }
 .balkep{
     float: left;
     width: 250px;
     box-shadow: 5px 5px 5px #1D1D4E;
+    margin-right: 10px;
+    margin-bottom: 2px;
 }
 .jobbkep{
     float: right;
